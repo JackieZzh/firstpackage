@@ -13,4 +13,9 @@ class FirstPackage{
     {
         return "Hi! This's my first time to create composer package!";
     }
+
+    public function Wanna()
+    {
+        return "Just do it!!!";
+    }
 }

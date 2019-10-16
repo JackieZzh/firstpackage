@@ -3,7 +3,6 @@
     "description": "第一个测试包",
     "type": "library",
     "license": "apache",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "JackieZzh",
