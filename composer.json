@@ -1,15 +1,15 @@
 {
     "name": "jackiezzh/firstpackage",
     "description": "第一个测试包",
-    "type": "a",
-    "license": "apache",
+    "type": "library",
+    "license": "All rights reserved.",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "JackieZzh",
             "email": "862355069@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
