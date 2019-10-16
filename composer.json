@@ -2,7 +2,7 @@
     "name": "jackiezzh/firstpackage",
     "description": "第一个测试包",
     "type": "library",
-    "license": "All rights reserved.",
+    "license": "apache",
     "version": "1.0.0",
     "authors": [
         {
